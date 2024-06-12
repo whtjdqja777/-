@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1"
+        android:icon="@drawable/free_icon_studying_386655"
+        android:title="타이머"
+        android:checked="false"/>
+
+    <item
+        android:id="@+id/menu2"
+        android:icon="@drawable/gui_form_progress_bar_icon_158458"
+        android:title="달성도"
+        android:checked="false"/>
+
+    <item
+        android:id="@+id/menu3"
+        android:icon="@drawable/_8811"
+        android:title="로그"
+        android:checked="false"/>
+
+</menu>
